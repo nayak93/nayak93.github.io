@@ -429,9 +429,9 @@ h2 {
   .main__project-title, .main__resume {
     margin: 20px 0 10px 0;
     transition: 0.3s opacity ease; }
-    .main__project-title:hover, .main__resume:hover {
+    .main__resume:hover {
       opacity: 0.6; }
-    .main__project-title:after, .main__resume:after {
+    .main__resume:after {
       position: relative;
       bottom: 0.2ex;
       margin-left: 20px;
