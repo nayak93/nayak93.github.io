@@ -33,7 +33,7 @@ p {
 a {
   transition: border 0.1s linear, color 0.1s linear, background-color 0.1s linear;
   -webkit-transition: border 0.1s linear, color 0.1s linear, background-color 0.1s linear;
-  color: #313131;
+  color: #FFFFFF;;
   background-color: transparent;
   text-decoration: none;
   white-space: nowrap; }
